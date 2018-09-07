@@ -1,2 +1,2 @@
-# config-repository
-公共配置中心
+# vz-config-repository
+微服务公共配置中心
